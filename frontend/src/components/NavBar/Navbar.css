@@ -1,0 +1,30 @@
+#Navbar{
+    width:100vw;
+    height:10vh;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 2rem;
+    padding-left:0.5rem;
+    align-items: center;
+
+}
+
+#Navbar #right{
+    display:flex;
+    gap:1rem;
+    height:50%;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+#avatar{
+    height:100%;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    border: 1px solid black;
+    object-fit: cover;
+}
+
+
+

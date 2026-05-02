@@ -1,0 +1,23 @@
+[
+  {
+    "commentId": 1,
+    "content": "Bài viết dễ thương quá! Boss nhà bạn xinh ghê.",
+    "createdAt": "2026-04-23T17:05:00",
+    "postId": 1,
+    "userId": 3
+  },
+  {
+    "commentId": 2,
+    "content": "Bạn nên cho mèo dùng thức ăn ít hạt và bổ sung dầu cá.",
+    "createdAt": "2026-04-22T11:05:00",
+    "postId": 2,
+    "userId": 1
+  },
+  {
+    "commentId": 3,
+    "content": "Mình tò mò tham gia nhóm nhé, có thể mình sẽ đến!",
+    "createdAt": "2026-04-21T09:10:00",
+    "postId": 3,
+    "userId": 2
+  }
+]

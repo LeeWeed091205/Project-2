@@ -1,0 +1,26 @@
+[
+  {
+    "reviewId": 1,
+    "rating": 5,
+    "comment": "Dịch vụ rất tốt, nhân viên thân thiện và chăm sóc tận tình cho boss.",
+    "createdAt": "2026-04-21T12:30:00",
+    "clinicId": 1,
+    "userId": 3
+  },
+  {
+    "reviewId": 2,
+    "rating": 4,
+    "comment": "Phòng khám sạch sẽ, bác sĩ tư vấn rõ ràng. Giá cả hợp lý.",
+    "createdAt": "2026-04-19T10:10:00",
+    "clinicId": 2,
+    "userId": 2
+  },
+  {
+    "reviewId": 3,
+    "rating": 5,
+    "comment": "Mình rất hài lòng với dịch vụ tắm, sấy và cắt tỉa cho thú cưng.",
+    "createdAt": "2026-04-20T14:00:00",
+    "clinicId": 3,
+    "userId": 4
+  }
+]

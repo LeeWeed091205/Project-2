@@ -1,0 +1,32 @@
+[
+  {
+    "postId": 1,
+    "title": "Chia sẻ bộ ảnh boss mới",
+    "content": "Hôm nay mình đi dạo với boss và chụp được bộ ảnh siêu dễ thương. Mọi người thấy sao?",
+    "createdAt": "2026-04-23T16:20:00",
+    "userId": 2,
+    "categories": ["SHOWCASE"],
+    "postImages": [
+      "https://images.unsplash.com/photo-1517849845537-4d257902454a",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b"
+    ]
+  },
+  {
+    "postId": 2,
+    "title": "Bé mèo bị rụng lông nhiều, cần tư vấn",
+    "content": "Mình thấy thú cưng bị rụng lông nhiều sau mùa thu. Ai có kinh nghiệm chăm sóc và thức ăn phù hợp không?",
+    "createdAt": "2026-04-22T10:15:00",
+    "userId": 4,
+    "categories": ["HEALTH_AND_MEDICAL", "NUTRITION"],
+    "postImages": []
+  },
+  {
+    "postId": 3,
+    "title": "Sự kiện meetup nuôi thú cưng cuối tuần",
+    "content": "Mình muốn tổ chức buổi gặp mặt offline chia sẻ kinh nghiệm nuôi pet vào cuối tuần này. Ai quan tâm tham gia không?",
+    "createdAt": "2026-04-21T08:30:00",
+    "userId": 1,
+    "categories": ["NEWS_AND_EVENTS"],
+    "postImages": []
+  }
+]

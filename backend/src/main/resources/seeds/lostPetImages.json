@@ -1,0 +1,20 @@
+[
+  {
+    "imageId": 1,
+    "imgPetUrl": "https://images.unsplash.com/photo-1516972810927-80185027ca84",
+    "lostPetId": 1,
+    "createdAt": "2026-04-22T18:06:00"
+  },
+  {
+    "imageId": 2,
+    "imgPetUrl": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131",
+    "lostPetId": 2,
+    "createdAt": "2026-04-23T08:12:00"
+  },
+  {
+    "imageId": 3,
+    "imgPetUrl": "https://images.unsplash.com/photo-1525253086316-d0c936c814f8",
+    "lostPetId": 3,
+    "createdAt": "2026-04-20T12:12:00"
+  }
+]

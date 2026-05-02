@@ -1,0 +1,41 @@
+[
+  {
+    "lostpetId": 1,
+    "petname": "Milo",
+    "species": "Chó",
+    "breed": "Shiba Inu",
+    "description": "Bị lạc khi chạy ra khu vườn, có vòng cổ màu đỏ.",
+    "location": "Công viên 23/9, TP.HCM",
+    "lostdate": "2026-04-22T18:00:00",
+    "contact": "+84 912 234 567",
+    "status": "LOST",
+    "createdAt": "2026-04-22T18:05:00",
+    "userId": 4
+  },
+  {
+    "lostpetId": 2,
+    "petname": "Miu Miu",
+    "species": "Mèo",
+    "breed": "Mèo Anh lông ngắn",
+    "description": "Thích nằm gọn trong giỏ, mất tích gần nhà.",
+    "location": "Phường 1, Quận 3",
+    "lostdate": "2026-04-23T08:00:00",
+    "contact": "+84 933 123 456",
+    "status": "LOST",
+    "createdAt": "2026-04-23T08:10:00",
+    "userId": 2
+  },
+  {
+    "lostpetId": 3,
+    "petname": "Bubbly",
+    "species": "Thỏ",
+    "breed": "Holland Lop",
+    "description": "Đã tìm được và chuyển thành FOUND. Cám ơn cộng đồng.",
+    "location": "Quận 5, TP.HCM",
+    "lostdate": "2026-04-20T12:00:00",
+    "contact": "+84 907 555 888",
+    "status": "FOUND",
+    "createdAt": "2026-04-20T12:10:00",
+    "userId": 3
+  }
+]

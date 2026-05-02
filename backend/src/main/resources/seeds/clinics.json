@@ -1,0 +1,26 @@
+[
+  {
+    "clinicId": 1,
+    "name": "VET CARE Clinic",
+    "address": "123 Lê Lợi, Quận 1, TP.HCM",
+    "phone": "+84 912 345 678",
+    "description": "Phòng khám thú y chuyên chăm sóc mèo, chó và thú cưng nhỏ. Hỗ trợ tiêm phòng, khám bệnh và spa thú cưng.",
+    "createdAt": "2026-04-20T09:00:00"
+  },
+  {
+    "clinicId": 2,
+    "name": "Happy Pet Hospital",
+    "address": "88 Nguyễn Trãi, Quận 5, TP.HCM",
+    "phone": "+84 933 221 110",
+    "description": "Đội ngũ bác sĩ giàu kinh nghiệm, dịch vụ kiểm tra sức khỏe, phẫu thuật và xét nghiệm chuyên sâu.",
+    "createdAt": "2026-04-18T15:20:00"
+  },
+  {
+    "clinicId": 3,
+    "name": "Pet Wellness Center",
+    "address": "54 Trần Hưng Đạo, Quận 3, TP.HCM",
+    "phone": "+84 907 885 332",
+    "description": "Phòng khám thân thiện, chuyên tư vấn dinh dưỡng và phục hồi sau bệnh cho thú cưng.",
+    "createdAt": "2026-04-17T11:45:00"
+  }
+]

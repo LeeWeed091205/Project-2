@@ -1,0 +1,42 @@
+[
+  {
+    "userId": 1,
+    "username": "admin",
+    "email": "admin@demo.com",
+    "password": "admin123",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=AdminUser",
+    "bio": "Quản trị viên hệ thống, luôn sẵn sàng hỗ trợ cộng đồng.",
+    "role": "ADMIN",
+    "createdAt": "2026-04-24T08:00:00"
+  },
+  {
+    "userId": 2,
+    "username": "petlover",
+    "email": "petlover@demo.com",
+    "password": "petlover123",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=PetLover",
+    "bio": "Mình thích chia sẻ hình ảnh và kinh nghiệm nuôi thú cưng.",
+    "role": "USER",
+    "createdAt": "2026-04-23T14:30:00"
+  },
+  {
+    "userId": 3,
+    "username": "clinicowner",
+    "email": "clinicowner@demo.com",
+    "password": "clinic123",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ClinicOwner",
+    "bio": "Chủ phòng khám thú y, luôn sẵn lòng tư vấn và chia sẻ kiến thức.",
+    "role": "USER",
+    "createdAt": "2026-04-22T11:15:00"
+  },
+  {
+    "userId": 4,
+    "username": "lostpetfinder",
+    "email": "lostpetfinder@demo.com",
+    "password": "finder123",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=LostPetFinder",
+    "bio": "Mình chuyên giúp tìm thú cưng bị lạc và cập nhật tin tức thú y.",
+    "role": "USER",
+    "createdAt": "2026-04-21T09:45:00"
+  }
+]
